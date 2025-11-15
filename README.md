@@ -80,6 +80,23 @@ This comprehensive book is designed for **complete beginners** who aim to pass t
 
 ---
 
+## 📥 Download EPUB Version
+
+[![Download EPUB](https://img.shields.io/badge/Download-EPUB-blue)](English_Grammar_Book.epub)
+
+**Direct Download:** [Click here to download EPUB file](English_Grammar_Book.epub)
+
+**Latest Release:** [View all releases on GitHub](https://github.com/YOUR_USERNAME/REPO_NAME/releases) *(Replace YOUR_USERNAME/REPO_NAME with your actual GitHub username and repository name)*
+
+### How to Use EPUB:
+
+- **Kindle:** Email EPUB to your Kindle email, or use Send to Kindle app
+- **Apple Books:** Open EPUB file on iPhone/iPad/Mac
+- **Android:** Use Google Play Books or any e-reader app
+- **Computer:** Use Calibre (free) to read EPUB files
+
+---
+
 ## 📁 Files in This Repository
 
 ### Main Content:
@@ -218,6 +235,8 @@ Found an error or want to improve the content? Feel free to:
 - Open an issue
 - Submit a pull request
 - Suggest improvements
+
+See `CONTRIBUTING.md` for guidelines.
 
 ---
 

@@ -1,5 +1,5 @@
-# E-book output files
-*.epub
+# E-book output files (commented out to allow EPUB in repository)
+# *.epub
 *.pdf
 *.mobi
 *.azw3
